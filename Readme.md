@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Вітя Рунцев](https://up.htmlacademy.ru/javascript/12/user/475053).
-* Наставник: `Неизвестно`.
+* Наставник: `Артемий Бойков`.
 
 ---
 
